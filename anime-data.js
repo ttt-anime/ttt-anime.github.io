@@ -186,7 +186,7 @@ const animeList = [
     title: "100-man no Inochi no Ue ni Ore wa Tatteiru ข้าก้าวข้ามผ่าน 1 ล้านชีวิตเพื่อพิชิตเกมมรณะ ตอนที่ 1-12 พากย์ไทย",
     img: "https://img2.pic.in.th/pic/image043c099756e68774.md-1.jpg",
     type: "ตอนที่ 1-12 พากย์ไทย",
-    link: "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru-thai"
+    link: "part/100-man-no-inochi-no-ue-ni-ore-wa-tatteiru-thai"
   },
   {
   
